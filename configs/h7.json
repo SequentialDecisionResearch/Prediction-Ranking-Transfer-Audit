@@ -1,0 +1,25 @@
+{
+  "experiment_name": "posthoc_identity_ranking_h7_inference_upgrade",
+  "seed": 20261020,
+  "horizon": 7,
+  "ridge_alpha": 5.0,
+  "splits": 20,
+  "test_identity_fraction": 0.2,
+  "train_end": "2020-12-31",
+  "test_start": "2021-01-04",
+  "test_end": "2022-12-30",
+  "factorial_train_end": "2019-12-31",
+  "factorial_near_start": "2020-01-02",
+  "factorial_near_end": "2020-12-31",
+  "factorial_far_start": "2021-01-04",
+  "factorial_far_end": "2022-12-30",
+  "minimum_stocks_per_date": 5,
+  "bootstrap_replicates": 5000,
+  "bootstrap_block_months": [
+    3,
+    6,
+    12
+  ],
+  "analysis_status": "posthoc_robustness_not_new_independent_confirmation",
+  "inference_status": "posthoc_exploratory_nominal_intervals_not_formal_confirmatory_pvalues"
+}
