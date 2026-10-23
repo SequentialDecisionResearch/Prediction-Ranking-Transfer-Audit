@@ -37,3 +37,13 @@ The analysis examines the relationship between return-prediction accuracy, cross
 The reported V2 analyses are post-hoc sensitivity assessments. Calendar-block confidence intervals are exploratory because the evaluation covers a limited number of distinct calendar months.
 
 The results do not establish a consistent ranking advantage or a deployable trading strategy.
+
+Manuscript
+
+When Prediction Transfer Does Not Imply Ranking Transfer: Explicit-Label-Free Learning Across Equity Identities
+
+Working paper, October 2026. Submitted to Journal of Forecasting; under editorial consideration.
+
+Read the manuscript
+
+The repository contains research code and experimental outputs accompanying the manuscript. The reported findings are conditional on the documented historical cohort and evaluation protocol.
