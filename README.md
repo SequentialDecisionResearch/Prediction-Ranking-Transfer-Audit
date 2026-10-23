@@ -44,6 +44,6 @@ When Prediction Transfer Does Not Imply Ranking Transfer: Explicit-Label-Free Le
 
 Working paper, October 2026. Submitted to Journal of Forecasting; under editorial consideration.
 
-Read the manuscript
+Read the [manuscript](https://github.com/SequentialDecisionResearch/Prediction-Ranking-Transfer-Audit/blob/main/paper/Identity_Transfer_paper.pdf)
 
 The repository contains research code and experimental outputs accompanying the manuscript. The reported findings are conditional on the documented historical cohort and evaluation protocol.
